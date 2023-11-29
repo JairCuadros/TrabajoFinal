@@ -11,11 +11,8 @@ namespace TrabajoFinal
         static void Main(string[] args)
         {
             Console.WriteLine("a");
-<<<<<<< HEAD
 
             Console.ReadKey();
-=======
->>>>>>> af08bc0adff6488dc14972a5f55ced0d6c6e0d60
         }
     }
 }
