@@ -12,7 +12,7 @@ namespace TrabajoFinal
         {
             Console.WriteLine("a");
             Console.WriteLine(" lk");
-            console.WriteLine(" d ")
+            Console.WriteLine(" d ");
             Console.ReadKey();
         }
     }
