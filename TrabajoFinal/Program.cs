@@ -11,7 +11,7 @@ namespace TrabajoFinal
         static void Main(string[] args)
         {
             Console.WriteLine("a");
-
+            Console.WriteLine(" lk");
             Console.ReadKey();
         }
     }
